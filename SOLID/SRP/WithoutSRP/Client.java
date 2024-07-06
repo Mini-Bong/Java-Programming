@@ -1,4 +1,4 @@
-package JavaProgramming.SOLID.SRP;
+package JavaProgramming.SOLID.SRP.WithoutSRP;
 
 import java.util.Random;
 
