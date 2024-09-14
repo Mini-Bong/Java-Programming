@@ -1,4 +1,4 @@
-package JavaProgramming.MultiThreading;
+package MultiThreading;
 
 public class StringBufferVsBuilder {
 

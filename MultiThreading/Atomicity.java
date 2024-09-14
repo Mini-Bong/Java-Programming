@@ -1,4 +1,4 @@
-package JavaProgramming.MultiThreading;
+package MultiThreading;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
@@ -14,7 +14,6 @@ class SharedCounter{
     public int getCount(){
         return count.get();
     }
-
 }
 public class Atomicity {
     public static void main(String[] args) {

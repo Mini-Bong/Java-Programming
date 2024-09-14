@@ -1,4 +1,4 @@
-package JavaProgramming.MultiThreading;
+package MultiThreading;
 
 import common.util.FastReader;
 
@@ -13,7 +13,7 @@ class MyThread extends Thread{
 
 public class TreadImpl {
     public static void main(String[] args) {
-        FastReader fastReader = new FastReader();
+        // FastReader fastReader = new FastReader();
         MyThread myThread1 = new MyThread();
         MyThread myThread2 = new MyThread();
 
